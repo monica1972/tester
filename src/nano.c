@@ -12,6 +12,8 @@ main( int argc, char *argv[] )
 
 	/*dummy modification #2 for git test */
 
+	/*dummy modification #3 for git test */
+
     printf("main\n");
 	printf("CONST %d\n",TEST);
 
