@@ -10,6 +10,8 @@ main( int argc, char *argv[] )
 	int tick=0;
 	/*dummy modification #1 for git test */
 
+	/*dummy modification #2 for git test */
+
     printf("main\n");
 	printf("CONST %d\n",TEST);
 
